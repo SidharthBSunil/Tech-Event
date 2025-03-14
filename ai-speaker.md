@@ -207,4 +207,5 @@ void audio_info(const char *info) {
   Serial.print("audio_info: ");
   Serial.println(info);
 }
+````
 ![image](https://github.com/user-attachments/assets/b63064a4-e565-4113-9604-5e7c199db245)
