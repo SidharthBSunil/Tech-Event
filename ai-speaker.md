@@ -120,8 +120,8 @@ sample 2
 #include <ArduinoJson.h>
 #include "Audio.h"
 
-const char* ssid = "J.A.R.V.I.S-Network";
-const char* password = "Akash@6459";
+const char* ssid = "";
+const char* password = "";
 const char* Gemini_Token = "YOUR_GEMINI_API_KEY"; // Replace with your Gemini API key
 const char* Gemini_Max_Tokens = "50";
 String Question = "";
